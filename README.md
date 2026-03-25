@@ -1,4 +1,5 @@
-# 🧡 Cloudflare Vibe SDK
+# Lamatic Vibe Builder
+## Built with 🧡 Cloudflare Vibe SDK
 
 > **An open source full-stack AI webapp generator** – Deploy your own instance of Cloudflare VibeSDK, an AI vibe coding platform that you can run and customize yourself.
 
@@ -7,7 +8,7 @@
 
 ## 🚀 Live Demo
 
-**[build.cloudflare.dev](https://build.cloudflare.dev)**
+**[apps.lamatic.ai](https://apps.lamatic.ai/)**
 
 *Explore VibeSDK Build before deploying your own stack.*
 
